@@ -1,6 +1,6 @@
 {
   "appName": "digital-signature",
-  "latestVersion": "2.2.0",
+  "latestVersion": "2.1.0",
   "downloadUrl": "https://github.com/AkramKasem/digital-signature-vesrions/releases/download/v2.1.0/DigitalSignatureToolV2-Setup.exe",
   "releaseNotes": "Bug fixes and performance improvements.",
   "forceInstall": false
